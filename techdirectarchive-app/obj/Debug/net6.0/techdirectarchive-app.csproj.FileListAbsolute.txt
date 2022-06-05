@@ -1,0 +1,17 @@
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.csproj.AssemblyReference.cache
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.AssemblyInfoInputs.cache
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.AssemblyInfo.cs
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.csproj.CoreCompileInputs.cache
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\techdirectarchive-app.exe
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\techdirectarchive-app.deps.json
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\techdirectarchive-app.runtimeconfig.json
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\techdirectarchive-app.dll
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\techdirectarchive-app.pdb
+C:\Users\Raph\techdirectarchive-app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.csproj.CopyComplete
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.dll
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\refint\techdirectarchive-app.dll
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.pdb
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\techdirectarchive-app.genruntimeconfig.cache
+C:\Users\Raph\techdirectarchive-app\obj\Debug\net6.0\ref\techdirectarchive-app.dll
